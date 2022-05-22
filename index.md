@@ -2,7 +2,7 @@
 
 
 ハラモチはWebサイトの制作を主に行なっている
-Hosokawa Takahiroの個人商号です。
+Hosokawa Takahiroの個人屋号です。
 
 
 活動内容
