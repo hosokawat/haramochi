@@ -15,3 +15,6 @@ Hosokawa Takahiroの個人商号です。
 
 - ギター弾き語り
   - 初心者歓迎のコミュニティで行われる演奏会・ライブに演者として参加しています。
+
+- ITモノづくり
+  - [フルカラーライフゲーム](https://hosokawat.github.io/full_color_life_led/)
